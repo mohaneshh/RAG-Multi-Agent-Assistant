@@ -62,8 +62,11 @@ Click "Refresh Document Index" in the sidebar to load new content.
 
 ❓ Example Questions
 "What are the applications of quantum computing?"
+
 "Calculate 3456 * 789"
+
 "Define artificial intelligence"
+
 
 🧠 System Architecture
 1. Data Ingestion
@@ -71,8 +74,10 @@ Reads .txt files
 
 Splits content into chunks using LangChain
 
+
 2. Vector Store
 Uses ChromaDB with HuggingFace embeddings for semantic search
+
 
 3. Multi-Agent System
 RAG Agent: Answers content-based queries using Gemini
@@ -80,6 +85,7 @@ RAG Agent: Answers content-based queries using Gemini
 Calculator Agent: Solves math expressions
 
 Dictionary Agent: Provides definitions
+
 
 4. User Interface
 Built using Streamlit for easy interaction
