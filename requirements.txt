@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+faiss-cpu
+requests

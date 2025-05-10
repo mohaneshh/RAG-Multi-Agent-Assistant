@@ -1,0 +1,34 @@
+# Company FAQ
+
+## General Questions
+
+Q: What is the company's mission?
+A: Our mission is to create innovative solutions that improve people's lives through technology.
+
+Q: When was the company founded?
+A: The company was founded in 2010 by Jane Smith and John Doe.
+
+Q: How many employees does the company have?
+A: As of 2023, we have over 500 employees across 10 global offices.
+
+## Products and Services
+
+Q: What are the main products offered?
+A: We offer three main product lines: AI Assistant Pro, Data Analytics Suite, and Cloud Security Manager.
+
+Q: Do you provide customer support?
+A: Yes, we provide 24/7 customer support through email, phone, and live chat.
+
+Q: What industries do you serve?
+A: We primarily serve healthcare, finance, education, and retail industries.
+
+## Career Information
+
+Q: What benefits do employees receive?
+A: Employees receive competitive salaries, health insurance, retirement plans, and flexible work arrangements.
+
+Q: Are there remote work opportunities?
+A: Yes, we offer both hybrid and fully remote positions depending on the role.
+
+Q: What is the company culture like?
+A: We foster a collaborative, innovative culture that values diversity, continuous learning, and work-life balance.
