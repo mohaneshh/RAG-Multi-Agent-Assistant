@@ -114,4 +114,4 @@ Sample input and output:
 ![Screenshot (99)](https://github.com/user-attachments/assets/ef9eec03-6aae-45ef-a0fe-57af1531d4ac)
 
 
-Add new doc in the data folder then click on Refresh Document Index Button to ask questions on the new document.
+Add new doc (.txt file) in the **data** folder then click on Refresh Document Index Button to ask questions on the new document.
