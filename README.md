@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG-Powered Multi-Agent Q&A Assistant
 
 This project implements a simple "knowledge assistant" that retrieves relevant information from a document collection and generates natural-language answers using a Large Language Model (LLM).
@@ -27,3 +28,7 @@ The system consists of the following components:
 
 1. Clone the repository
 2. Install dependencies:
+=======
+# RAG-Multi-Agent-Assistant
+This project was developed as part of an internship assignment to create an intelligent question-answering system using Retrieval-Augmented Generation (RAG) and a multi-agent architecture. 
+>>>>>>> 1591d23f015607e9b0ce48a07dc8496a746e0022
