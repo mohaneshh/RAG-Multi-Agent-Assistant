@@ -60,7 +60,8 @@ Add .txt files to the data/ directory to expand the system's knowledge.
 Click "Refresh Document Index" in the sidebar to load new content.
 
 
-❓ Example Questions
+**❓ Example Questions:**
+
 "What are the applications of quantum computing?"
 
 "Calculate 3456 * 789"
@@ -70,16 +71,19 @@ Click "Refresh Document Index" in the sidebar to load new content.
 
 🧠 System Architecture
 1. Data Ingestion
+
 Reads .txt files
 
 Splits content into chunks using LangChain
 
 
 2. Vector Store
+
 Uses ChromaDB with HuggingFace embeddings for semantic search
 
 
 3. Multi-Agent System
+
 RAG Agent: Answers content-based queries using Gemini
 
 Calculator Agent: Solves math expressions
@@ -88,14 +92,18 @@ Dictionary Agent: Provides definitions
 
 
 4. User Interface
+
 Built using Streamlit for easy interaction
 
+
 🛠 Troubleshooting
+
 New documents not searchable? → Click Refresh Document Index in the sidebar.
 
 Invalid API key? → Ensure your .env file is correct and the key is active.
 
 Wrong file format? → Use only .txt files for ingestion.
+
 
 📄 License
 This project is open-sourced under the MIT License.
