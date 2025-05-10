@@ -69,11 +69,11 @@ Click "Refresh Document Index" in the sidebar to load new content.
 "Define artificial intelligence"
 
 
-🧠 System Architecture
+**🧠 System Architecture:**
+
 1. Data Ingestion
 
 Reads .txt files
-
 Splits content into chunks using LangChain
 
 
@@ -85,9 +85,7 @@ Uses ChromaDB with HuggingFace embeddings for semantic search
 3. Multi-Agent System
 
 RAG Agent: Answers content-based queries using Gemini
-
 Calculator Agent: Solves math expressions
-
 Dictionary Agent: Provides definitions
 
 
@@ -96,7 +94,7 @@ Dictionary Agent: Provides definitions
 Built using Streamlit for easy interaction
 
 
-🛠 Troubleshooting
+**🛠 Troubleshooting**
 
 New documents not searchable? → Click Refresh Document Index in the sidebar.
 
@@ -105,10 +103,10 @@ Invalid API key? → Ensure your .env file is correct and the key is active.
 Wrong file format? → Use only .txt files for ingestion.
 
 
-📄 License
+**📄 License**
 This project is open-sourced under the MIT License.
 
-🙋‍♂️ Author
+**🙋‍♂️ Author**
 Mohanesh R
 
 
